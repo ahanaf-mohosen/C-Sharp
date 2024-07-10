@@ -1,0 +1,12 @@
+F:\C# Programing\Code Practice\18. namespace\18. namespace\bin\Debug\_18.@namespace.exe.config
+F:\C# Programing\Code Practice\18. namespace\18. namespace\bin\Debug\_18.@namespace.exe
+F:\C# Programing\Code Practice\18. namespace\18. namespace\bin\Debug\_18.@namespace.pdb
+F:\C# Programing\Code Practice\18. namespace\18. namespace\obj\Debug\18. namespace.csproj.AssemblyReference.cache
+F:\C# Programing\Code Practice\18. namespace\18. namespace\obj\Debug\18. namespace.csproj.CoreCompileInputs.cache
+F:\C# Programing\Code Practice\18. namespace\18. namespace\obj\Debug\_18.@namespace.exe
+F:\C# Programing\Code Practice\18. namespace\18. namespace\obj\Debug\_18.@namespace.pdb
+F:\C# Programing\Code Practice\18. namespace\18. namespace\bin\Debug\ProjectA_TeamA.dll
+F:\C# Programing\Code Practice\18. namespace\18. namespace\bin\Debug\ProjectA_TeamB.dll
+F:\C# Programing\Code Practice\18. namespace\18. namespace\bin\Debug\ProjectA_TeamA.pdb
+F:\C# Programing\Code Practice\18. namespace\18. namespace\bin\Debug\ProjectA_TeamB.pdb
+F:\C# Programing\Code Practice\18. namespace\18. namespace\obj\Debug\18. namespace.csproj.CopyComplete

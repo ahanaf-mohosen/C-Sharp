@@ -1,0 +1,7 @@
+F:\C# Programing\Code Practice\out keyword\out keyword\bin\Debug\out keyword.exe.config
+F:\C# Programing\Code Practice\out keyword\out keyword\bin\Debug\out keyword.exe
+F:\C# Programing\Code Practice\out keyword\out keyword\bin\Debug\out keyword.pdb
+F:\C# Programing\Code Practice\out keyword\out keyword\obj\Debug\out keyword.csproj.AssemblyReference.cache
+F:\C# Programing\Code Practice\out keyword\out keyword\obj\Debug\out keyword.csproj.CoreCompileInputs.cache
+F:\C# Programing\Code Practice\out keyword\out keyword\obj\Debug\out keyword.exe
+F:\C# Programing\Code Practice\out keyword\out keyword\obj\Debug\out keyword.pdb

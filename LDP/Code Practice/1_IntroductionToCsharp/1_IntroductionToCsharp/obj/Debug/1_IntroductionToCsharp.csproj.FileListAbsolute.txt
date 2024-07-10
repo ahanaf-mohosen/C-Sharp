@@ -1,0 +1,7 @@
+F:\C# Programing\Code\1_IntroductionToCsharp\1_IntroductionToCsharp\bin\Debug\1_IntroductionToCsharp.exe.config
+F:\C# Programing\Code\1_IntroductionToCsharp\1_IntroductionToCsharp\bin\Debug\1_IntroductionToCsharp.exe
+F:\C# Programing\Code\1_IntroductionToCsharp\1_IntroductionToCsharp\bin\Debug\1_IntroductionToCsharp.pdb
+F:\C# Programing\Code\1_IntroductionToCsharp\1_IntroductionToCsharp\obj\Debug\1_IntroductionToCsharp.csproj.AssemblyReference.cache
+F:\C# Programing\Code\1_IntroductionToCsharp\1_IntroductionToCsharp\obj\Debug\1_IntroductionToCsharp.csproj.CoreCompileInputs.cache
+F:\C# Programing\Code\1_IntroductionToCsharp\1_IntroductionToCsharp\obj\Debug\1_IntroductionToCsharp.exe
+F:\C# Programing\Code\1_IntroductionToCsharp\1_IntroductionToCsharp\obj\Debug\1_IntroductionToCsharp.pdb

@@ -1,0 +1,8 @@
+F:\C#\Class-4\ConsoleApp23\ConsoleApp23\bin\Debug\ConsoleApp23.exe.config
+F:\C#\Class-4\ConsoleApp23\ConsoleApp23\bin\Debug\ConsoleApp23.exe
+F:\C#\Class-4\ConsoleApp23\ConsoleApp23\bin\Debug\ConsoleApp23.pdb
+F:\C#\Class-4\ConsoleApp23\ConsoleApp23\obj\Debug\ConsoleApp23.csproj.AssemblyReference.cache
+F:\C#\Class-4\ConsoleApp23\ConsoleApp23\obj\Debug\ConsoleApp23.csproj.SuggestedBindingRedirects.cache
+F:\C#\Class-4\ConsoleApp23\ConsoleApp23\obj\Debug\ConsoleApp23.csproj.CoreCompileInputs.cache
+F:\C#\Class-4\ConsoleApp23\ConsoleApp23\obj\Debug\ConsoleApp23.exe
+F:\C#\Class-4\ConsoleApp23\ConsoleApp23\obj\Debug\ConsoleApp23.pdb

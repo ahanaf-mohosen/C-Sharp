@@ -1,0 +1,8 @@
+F:\C#\Class-4\ConsoleApp42\ConsoleApp42\bin\Debug\ConsoleApp42.exe.config
+F:\C#\Class-4\ConsoleApp42\ConsoleApp42\bin\Debug\ConsoleApp42.exe
+F:\C#\Class-4\ConsoleApp42\ConsoleApp42\bin\Debug\ConsoleApp42.pdb
+F:\C#\Class-4\ConsoleApp42\ConsoleApp42\obj\Debug\ConsoleApp42.csproj.AssemblyReference.cache
+F:\C#\Class-4\ConsoleApp42\ConsoleApp42\obj\Debug\ConsoleApp42.csproj.SuggestedBindingRedirects.cache
+F:\C#\Class-4\ConsoleApp42\ConsoleApp42\obj\Debug\ConsoleApp42.csproj.CoreCompileInputs.cache
+F:\C#\Class-4\ConsoleApp42\ConsoleApp42\obj\Debug\ConsoleApp42.exe
+F:\C#\Class-4\ConsoleApp42\ConsoleApp42\obj\Debug\ConsoleApp42.pdb

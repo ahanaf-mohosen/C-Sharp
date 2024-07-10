@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\C# Programing\\Code Practice\\referenceProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE81E59-2020-4DAB-BDD5-241CDC25D599}|ClassLibrary1\\ClassLibrary1.csproj|f:\\c# programing\\code practice\\referenceproject\\classlibrary1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FE81E59-2020-4DAB-BDD5-241CDC25D599}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64398E98-77AE-441D-85EA-4D5AFFA2A2FD}|referenceProject\\referenceProject.csproj|f:\\c# programing\\code practice\\referenceproject\\referenceproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64398E98-77AE-441D-85EA-4D5AFFA2A2FD}|referenceProject\\referenceProject.csproj|solutionrelative:referenceproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "F:\\C# Programing\\Code Practice\\referenceProject\\ClassLibrary1\\Class1.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Class1.cs",
+              "ToolTip": "F:\\C# Programing\\Code Practice\\referenceProject\\ClassLibrary1\\Class1.cs*",
+              "RelativeToolTip": "ClassLibrary1\\Class1.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-16T18:38:51.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\C# Programing\\Code Practice\\referenceProject\\referenceProject\\Program.cs",
+              "RelativeDocumentMoniker": "referenceProject\\Program.cs",
+              "ToolTip": "F:\\C# Programing\\Code Practice\\referenceProject\\referenceProject\\Program.cs*",
+              "RelativeToolTip": "referenceProject\\Program.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-16T18:37:06.183Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

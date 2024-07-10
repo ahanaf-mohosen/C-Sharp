@@ -1,0 +1,7 @@
+F:\C# Programing\Code Practice\stringBuilder\stringBuilder\bin\Debug\stringBuilder.exe.config
+F:\C# Programing\Code Practice\stringBuilder\stringBuilder\bin\Debug\stringBuilder.exe
+F:\C# Programing\Code Practice\stringBuilder\stringBuilder\bin\Debug\stringBuilder.pdb
+F:\C# Programing\Code Practice\stringBuilder\stringBuilder\obj\Debug\stringBuilder.csproj.AssemblyReference.cache
+F:\C# Programing\Code Practice\stringBuilder\stringBuilder\obj\Debug\stringBuilder.csproj.CoreCompileInputs.cache
+F:\C# Programing\Code Practice\stringBuilder\stringBuilder\obj\Debug\stringBuilder.exe
+F:\C# Programing\Code Practice\stringBuilder\stringBuilder\obj\Debug\stringBuilder.pdb

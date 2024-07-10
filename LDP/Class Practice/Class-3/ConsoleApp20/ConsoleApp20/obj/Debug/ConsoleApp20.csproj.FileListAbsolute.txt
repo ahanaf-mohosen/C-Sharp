@@ -1,0 +1,8 @@
+F:\C#\Class-3\ConsoleApp20\ConsoleApp20\bin\Debug\ConsoleApp20.exe.config
+F:\C#\Class-3\ConsoleApp20\ConsoleApp20\bin\Debug\ConsoleApp20.exe
+F:\C#\Class-3\ConsoleApp20\ConsoleApp20\bin\Debug\ConsoleApp20.pdb
+F:\C#\Class-3\ConsoleApp20\ConsoleApp20\obj\Debug\ConsoleApp20.csproj.AssemblyReference.cache
+F:\C#\Class-3\ConsoleApp20\ConsoleApp20\obj\Debug\ConsoleApp20.csproj.SuggestedBindingRedirects.cache
+F:\C#\Class-3\ConsoleApp20\ConsoleApp20\obj\Debug\ConsoleApp20.csproj.CoreCompileInputs.cache
+F:\C#\Class-3\ConsoleApp20\ConsoleApp20\obj\Debug\ConsoleApp20.exe
+F:\C#\Class-3\ConsoleApp20\ConsoleApp20\obj\Debug\ConsoleApp20.pdb

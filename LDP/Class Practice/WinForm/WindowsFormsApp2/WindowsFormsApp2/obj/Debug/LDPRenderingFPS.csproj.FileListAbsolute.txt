@@ -1,0 +1,14 @@
+F:\C#\Exam\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\LDPRenderingFPS.csproj.AssemblyReference.cache
+F:\C#\Exam\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\LDPRenderingFPS.Form1.resources
+F:\C#\Exam\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+F:\C#\Exam\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\LDPRenderingFPS.csproj.GenerateResource.cache
+F:\C#\Exam\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\LDPRenderingFPS.csproj.CoreCompileInputs.cache
+F:\C#\Exam\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+F:\C#\Exam\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+F:\C# Programing\LDP\Classes\WinForm\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\LDPRenderingFPS.csproj.AssemblyReference.cache
+F:\C# Programing\LDP\Classes\WinForm\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\LDPRenderingFPS.Form1.resources
+F:\C# Programing\LDP\Classes\WinForm\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+F:\C# Programing\LDP\Classes\WinForm\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\LDPRenderingFPS.csproj.GenerateResource.cache
+F:\C# Programing\LDP\Classes\WinForm\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\LDPRenderingFPS.csproj.CoreCompileInputs.cache
+F:\C# Programing\LDP\Classes\WinForm\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+F:\C# Programing\LDP\Classes\WinForm\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb

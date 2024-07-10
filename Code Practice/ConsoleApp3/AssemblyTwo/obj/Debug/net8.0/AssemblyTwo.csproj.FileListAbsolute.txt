@@ -1,0 +1,11 @@
+F:\C# Programing\Code Practice\ConsoleApp3\AssemblyTwo\bin\Debug\net8.0\AssemblyTwo.deps.json
+F:\C# Programing\Code Practice\ConsoleApp3\AssemblyTwo\bin\Debug\net8.0\AssemblyTwo.dll
+F:\C# Programing\Code Practice\ConsoleApp3\AssemblyTwo\bin\Debug\net8.0\AssemblyTwo.pdb
+F:\C# Programing\Code Practice\ConsoleApp3\AssemblyTwo\obj\Debug\net8.0\AssemblyTwo.GeneratedMSBuildEditorConfig.editorconfig
+F:\C# Programing\Code Practice\ConsoleApp3\AssemblyTwo\obj\Debug\net8.0\AssemblyTwo.AssemblyInfoInputs.cache
+F:\C# Programing\Code Practice\ConsoleApp3\AssemblyTwo\obj\Debug\net8.0\AssemblyTwo.AssemblyInfo.cs
+F:\C# Programing\Code Practice\ConsoleApp3\AssemblyTwo\obj\Debug\net8.0\AssemblyTwo.csproj.CoreCompileInputs.cache
+F:\C# Programing\Code Practice\ConsoleApp3\AssemblyTwo\obj\Debug\net8.0\AssemblyTwo.dll
+F:\C# Programing\Code Practice\ConsoleApp3\AssemblyTwo\obj\Debug\net8.0\refint\AssemblyTwo.dll
+F:\C# Programing\Code Practice\ConsoleApp3\AssemblyTwo\obj\Debug\net8.0\AssemblyTwo.pdb
+F:\C# Programing\Code Practice\ConsoleApp3\AssemblyTwo\obj\Debug\net8.0\ref\AssemblyTwo.dll

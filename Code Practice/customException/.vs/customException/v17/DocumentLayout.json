@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\C# Programing\\Code Practice\\customException\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{409ACA64-B3C4-4DCC-B74D-E827382C65A1}|customException\\customException.csproj|f:\\c# programing\\code practice\\customexception\\customexception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{409ACA64-B3C4-4DCC-B74D-E827382C65A1}|customException\\customException.csproj|solutionrelative:customexception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\C# Programing\\Code Practice\\customException\\customException\\Program.cs",
+              "RelativeDocumentMoniker": "customException\\Program.cs",
+              "ToolTip": "F:\\C# Programing\\Code Practice\\customException\\customException\\Program.cs",
+              "RelativeToolTip": "customException\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-16T05:54:00.171Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

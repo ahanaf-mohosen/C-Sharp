@@ -1,0 +1,9 @@
+F:\C#\New folder\LDP_FPS\LDP_FPS\bin\Debug\LDP_FPS.exe.config
+F:\C#\New folder\LDP_FPS\LDP_FPS\bin\Debug\LDP_FPS.exe
+F:\C#\New folder\LDP_FPS\LDP_FPS\bin\Debug\LDP_FPS.pdb
+F:\C#\New folder\LDP_FPS\LDP_FPS\obj\Debug\LDP_FPS.csproj.AssemblyReference.cache
+F:\C#\New folder\LDP_FPS\LDP_FPS\obj\Debug\LDP_FPS.Properties.Resources.resources
+F:\C#\New folder\LDP_FPS\LDP_FPS\obj\Debug\LDP_FPS.csproj.GenerateResource.cache
+F:\C#\New folder\LDP_FPS\LDP_FPS\obj\Debug\LDP_FPS.csproj.CoreCompileInputs.cache
+F:\C#\New folder\LDP_FPS\LDP_FPS\obj\Debug\LDP_FPS.exe
+F:\C#\New folder\LDP_FPS\LDP_FPS\obj\Debug\LDP_FPS.pdb

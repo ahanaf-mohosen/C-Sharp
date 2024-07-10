@@ -1,0 +1,14 @@
+F:\C#\Exam\ConsoleApp2\ConsoleApp2\bin\Debug\net7.0\ConsoleApp2.exe
+F:\C#\Exam\ConsoleApp2\ConsoleApp2\bin\Debug\net7.0\ConsoleApp2.deps.json
+F:\C#\Exam\ConsoleApp2\ConsoleApp2\bin\Debug\net7.0\ConsoleApp2.runtimeconfig.json
+F:\C#\Exam\ConsoleApp2\ConsoleApp2\bin\Debug\net7.0\ConsoleApp2.dll
+F:\C#\Exam\ConsoleApp2\ConsoleApp2\bin\Debug\net7.0\ConsoleApp2.pdb
+F:\C#\Exam\ConsoleApp2\ConsoleApp2\obj\Debug\net7.0\ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\Exam\ConsoleApp2\ConsoleApp2\obj\Debug\net7.0\ConsoleApp2.AssemblyInfoInputs.cache
+F:\C#\Exam\ConsoleApp2\ConsoleApp2\obj\Debug\net7.0\ConsoleApp2.AssemblyInfo.cs
+F:\C#\Exam\ConsoleApp2\ConsoleApp2\obj\Debug\net7.0\ConsoleApp2.csproj.CoreCompileInputs.cache
+F:\C#\Exam\ConsoleApp2\ConsoleApp2\obj\Debug\net7.0\ConsoleApp2.dll
+F:\C#\Exam\ConsoleApp2\ConsoleApp2\obj\Debug\net7.0\refint\ConsoleApp2.dll
+F:\C#\Exam\ConsoleApp2\ConsoleApp2\obj\Debug\net7.0\ConsoleApp2.pdb
+F:\C#\Exam\ConsoleApp2\ConsoleApp2\obj\Debug\net7.0\ConsoleApp2.genruntimeconfig.cache
+F:\C#\Exam\ConsoleApp2\ConsoleApp2\obj\Debug\net7.0\ref\ConsoleApp2.dll

@@ -1,0 +1,7 @@
+F:\C# Programing\Code Practice\customException\customException\bin\Debug\customException.exe.config
+F:\C# Programing\Code Practice\customException\customException\bin\Debug\customException.exe
+F:\C# Programing\Code Practice\customException\customException\bin\Debug\customException.pdb
+F:\C# Programing\Code Practice\customException\customException\obj\Debug\customException.csproj.AssemblyReference.cache
+F:\C# Programing\Code Practice\customException\customException\obj\Debug\customException.csproj.CoreCompileInputs.cache
+F:\C# Programing\Code Practice\customException\customException\obj\Debug\customException.exe
+F:\C# Programing\Code Practice\customException\customException\obj\Debug\customException.pdb

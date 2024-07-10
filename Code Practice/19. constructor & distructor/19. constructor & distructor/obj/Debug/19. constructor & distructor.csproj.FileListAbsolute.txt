@@ -1,0 +1,7 @@
+F:\C# Programing\Code Practice\19. constructor & distructor\19. constructor & distructor\bin\Debug\_19.constructor___distructor.exe.config
+F:\C# Programing\Code Practice\19. constructor & distructor\19. constructor & distructor\bin\Debug\_19.constructor___distructor.exe
+F:\C# Programing\Code Practice\19. constructor & distructor\19. constructor & distructor\bin\Debug\_19.constructor___distructor.pdb
+F:\C# Programing\Code Practice\19. constructor & distructor\19. constructor & distructor\obj\Debug\19. constructor & distructor.csproj.AssemblyReference.cache
+F:\C# Programing\Code Practice\19. constructor & distructor\19. constructor & distructor\obj\Debug\19. constructor & distructor.csproj.CoreCompileInputs.cache
+F:\C# Programing\Code Practice\19. constructor & distructor\19. constructor & distructor\obj\Debug\_19.constructor___distructor.exe
+F:\C# Programing\Code Practice\19. constructor & distructor\19. constructor & distructor\obj\Debug\_19.constructor___distructor.pdb

@@ -1,0 +1,11 @@
+F:\C# Programing\Code Practice\ConsoleApp3\AssemblyOne\obj\Debug\net8.0\AssemblyOne.GeneratedMSBuildEditorConfig.editorconfig
+F:\C# Programing\Code Practice\ConsoleApp3\AssemblyOne\obj\Debug\net8.0\AssemblyOne.AssemblyInfoInputs.cache
+F:\C# Programing\Code Practice\ConsoleApp3\AssemblyOne\obj\Debug\net8.0\AssemblyOne.AssemblyInfo.cs
+F:\C# Programing\Code Practice\ConsoleApp3\AssemblyOne\obj\Debug\net8.0\AssemblyOne.csproj.CoreCompileInputs.cache
+F:\C# Programing\Code Practice\ConsoleApp3\AssemblyOne\bin\Debug\net8.0\AssemblyOne.deps.json
+F:\C# Programing\Code Practice\ConsoleApp3\AssemblyOne\bin\Debug\net8.0\AssemblyOne.dll
+F:\C# Programing\Code Practice\ConsoleApp3\AssemblyOne\bin\Debug\net8.0\AssemblyOne.pdb
+F:\C# Programing\Code Practice\ConsoleApp3\AssemblyOne\obj\Debug\net8.0\AssemblyOne.dll
+F:\C# Programing\Code Practice\ConsoleApp3\AssemblyOne\obj\Debug\net8.0\refint\AssemblyOne.dll
+F:\C# Programing\Code Practice\ConsoleApp3\AssemblyOne\obj\Debug\net8.0\AssemblyOne.pdb
+F:\C# Programing\Code Practice\ConsoleApp3\AssemblyOne\obj\Debug\net8.0\ref\AssemblyOne.dll

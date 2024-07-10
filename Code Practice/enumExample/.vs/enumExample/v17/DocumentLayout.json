@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\C# Programing\\Code Practice\\enumExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D3CD6254-24EC-4487-BC49-5BCC769198A1}|enumReference\\enumReference.csproj|f:\\c# programing\\code practice\\enumexample\\enumreference\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3CD6254-24EC-4487-BC49-5BCC769198A1}|enumReference\\enumReference.csproj|solutionrelative:enumreference\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1C4F60-E637-424E-A497-6CBB5C00D9B6}|enumExample\\enumExample.csproj|f:\\c# programing\\code practice\\enumexample\\enumexample\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1C4F60-E637-424E-A497-6CBB5C00D9B6}|enumExample\\enumExample.csproj|solutionrelative:enumexample\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1C4F60-E637-424E-A497-6CBB5C00D9B6}|enumExample\\enumExample.csproj|f:\\c# programing\\code practice\\enumexample\\enumexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1C4F60-E637-424E-A497-6CBB5C00D9B6}|enumExample\\enumExample.csproj|solutionrelative:enumexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\C# Programing\\Code Practice\\enumExample\\enumReference\\Program.cs",
+              "RelativeDocumentMoniker": "enumReference\\Program.cs",
+              "ToolTip": "F:\\C# Programing\\Code Practice\\enumExample\\enumReference\\Program.cs",
+              "RelativeToolTip": "enumReference\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAswAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-16T18:18:17.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "F:\\C# Programing\\Code Practice\\enumExample\\enumExample\\Class1.cs",
+              "RelativeDocumentMoniker": "enumExample\\Class1.cs",
+              "ToolTip": "F:\\C# Programing\\Code Practice\\enumExample\\enumExample\\Class1.cs",
+              "RelativeToolTip": "enumExample\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-16T18:15:47.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\C# Programing\\Code Practice\\enumExample\\enumExample\\Program.cs",
+              "RelativeDocumentMoniker": "enumExample\\Program.cs",
+              "ToolTip": "F:\\C# Programing\\Code Practice\\enumExample\\enumExample\\Program.cs",
+              "RelativeToolTip": "enumExample\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-16T15:58:11.476Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

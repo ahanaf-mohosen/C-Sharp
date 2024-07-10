@@ -1,0 +1,8 @@
+F:\C#\Class-Practice\StudentResult\StudentResult\bin\Debug\StudentResult.exe.config
+F:\C#\Class-Practice\StudentResult\StudentResult\bin\Debug\StudentResult.exe
+F:\C#\Class-Practice\StudentResult\StudentResult\bin\Debug\StudentResult.pdb
+F:\C#\Class-Practice\StudentResult\StudentResult\obj\Debug\StudentResult.csproj.AssemblyReference.cache
+F:\C#\Class-Practice\StudentResult\StudentResult\obj\Debug\StudentResult.csproj.SuggestedBindingRedirects.cache
+F:\C#\Class-Practice\StudentResult\StudentResult\obj\Debug\StudentResult.csproj.CoreCompileInputs.cache
+F:\C#\Class-Practice\StudentResult\StudentResult\obj\Debug\StudentResult.exe
+F:\C#\Class-Practice\StudentResult\StudentResult\obj\Debug\StudentResult.pdb

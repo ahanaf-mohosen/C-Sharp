@@ -1,0 +1,7 @@
+F:\C# Programing\Code Practice\22.1.  Inheritance\22.1.  Inheritance\bin\Debug\_22._1.Inheritance.exe.config
+F:\C# Programing\Code Practice\22.1.  Inheritance\22.1.  Inheritance\bin\Debug\_22._1.Inheritance.exe
+F:\C# Programing\Code Practice\22.1.  Inheritance\22.1.  Inheritance\bin\Debug\_22._1.Inheritance.pdb
+F:\C# Programing\Code Practice\22.1.  Inheritance\22.1.  Inheritance\obj\Debug\22.1.  Inheritance.csproj.AssemblyReference.cache
+F:\C# Programing\Code Practice\22.1.  Inheritance\22.1.  Inheritance\obj\Debug\22.1.  Inheritance.csproj.CoreCompileInputs.cache
+F:\C# Programing\Code Practice\22.1.  Inheritance\22.1.  Inheritance\obj\Debug\_22._1.Inheritance.exe
+F:\C# Programing\Code Practice\22.1.  Inheritance\22.1.  Inheritance\obj\Debug\_22._1.Inheritance.pdb

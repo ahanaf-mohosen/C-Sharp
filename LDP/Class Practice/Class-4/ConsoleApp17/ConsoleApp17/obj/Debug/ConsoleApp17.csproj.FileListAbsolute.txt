@@ -1,0 +1,8 @@
+F:\C#\Class-4\ConsoleApp17\ConsoleApp17\bin\Debug\ConsoleApp17.exe.config
+F:\C#\Class-4\ConsoleApp17\ConsoleApp17\bin\Debug\ConsoleApp17.exe
+F:\C#\Class-4\ConsoleApp17\ConsoleApp17\bin\Debug\ConsoleApp17.pdb
+F:\C#\Class-4\ConsoleApp17\ConsoleApp17\obj\Debug\ConsoleApp17.csproj.AssemblyReference.cache
+F:\C#\Class-4\ConsoleApp17\ConsoleApp17\obj\Debug\ConsoleApp17.csproj.SuggestedBindingRedirects.cache
+F:\C#\Class-4\ConsoleApp17\ConsoleApp17\obj\Debug\ConsoleApp17.csproj.CoreCompileInputs.cache
+F:\C#\Class-4\ConsoleApp17\ConsoleApp17\obj\Debug\ConsoleApp17.exe
+F:\C#\Class-4\ConsoleApp17\ConsoleApp17\obj\Debug\ConsoleApp17.pdb

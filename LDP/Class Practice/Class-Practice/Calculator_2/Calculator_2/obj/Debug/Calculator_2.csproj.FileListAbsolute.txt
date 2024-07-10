@@ -1,0 +1,8 @@
+F:\C#\Class-Practice\Calculator_2\Calculator_2\obj\Debug\Calculator_2.csproj.AssemblyReference.cache
+F:\C#\Class-Practice\Calculator_2\Calculator_2\obj\Debug\Calculator_2.csproj.SuggestedBindingRedirects.cache
+F:\C#\Class-Practice\Calculator_2\Calculator_2\obj\Debug\Calculator_2.csproj.CoreCompileInputs.cache
+F:\C#\Class-Practice\Calculator_2\Calculator_2\bin\Debug\Calculator_2.exe.config
+F:\C#\Class-Practice\Calculator_2\Calculator_2\bin\Debug\Calculator_2.exe
+F:\C#\Class-Practice\Calculator_2\Calculator_2\bin\Debug\Calculator_2.pdb
+F:\C#\Class-Practice\Calculator_2\Calculator_2\obj\Debug\Calculator_2.exe
+F:\C#\Class-Practice\Calculator_2\Calculator_2\obj\Debug\Calculator_2.pdb

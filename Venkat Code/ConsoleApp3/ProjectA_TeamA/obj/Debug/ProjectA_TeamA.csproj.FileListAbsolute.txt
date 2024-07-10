@@ -1,0 +1,6 @@
+F:\C# Programing\Venkat Code\ConsoleApp3\ProjectA_TeamA\bin\Debug\ProjectA_TeamA.dll
+F:\C# Programing\Venkat Code\ConsoleApp3\ProjectA_TeamA\bin\Debug\ProjectA_TeamA.pdb
+F:\C# Programing\Venkat Code\ConsoleApp3\ProjectA_TeamA\obj\Debug\ProjectA_TeamA.csproj.AssemblyReference.cache
+F:\C# Programing\Venkat Code\ConsoleApp3\ProjectA_TeamA\obj\Debug\ProjectA_TeamA.csproj.CoreCompileInputs.cache
+F:\C# Programing\Venkat Code\ConsoleApp3\ProjectA_TeamA\obj\Debug\ProjectA_TeamA.dll
+F:\C# Programing\Venkat Code\ConsoleApp3\ProjectA_TeamA\obj\Debug\ProjectA_TeamA.pdb

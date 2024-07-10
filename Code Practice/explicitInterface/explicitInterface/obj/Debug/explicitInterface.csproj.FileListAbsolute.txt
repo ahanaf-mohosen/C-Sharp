@@ -1,0 +1,7 @@
+F:\C# Programing\Code Practice\explicitInterface\explicitInterface\bin\Debug\explicitInterface.exe.config
+F:\C# Programing\Code Practice\explicitInterface\explicitInterface\bin\Debug\explicitInterface.exe
+F:\C# Programing\Code Practice\explicitInterface\explicitInterface\bin\Debug\explicitInterface.pdb
+F:\C# Programing\Code Practice\explicitInterface\explicitInterface\obj\Debug\explicitInterface.csproj.AssemblyReference.cache
+F:\C# Programing\Code Practice\explicitInterface\explicitInterface\obj\Debug\explicitInterface.csproj.CoreCompileInputs.cache
+F:\C# Programing\Code Practice\explicitInterface\explicitInterface\obj\Debug\explicitInterface.exe
+F:\C# Programing\Code Practice\explicitInterface\explicitInterface\obj\Debug\explicitInterface.pdb

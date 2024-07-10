@@ -1,0 +1,7 @@
+F:\C# Programing\Code Practice\20. Static and instance class members\20. Static and instance class members\bin\Debug\_20.Static_and_instance_class_members.exe.config
+F:\C# Programing\Code Practice\20. Static and instance class members\20. Static and instance class members\bin\Debug\_20.Static_and_instance_class_members.exe
+F:\C# Programing\Code Practice\20. Static and instance class members\20. Static and instance class members\bin\Debug\_20.Static_and_instance_class_members.pdb
+F:\C# Programing\Code Practice\20. Static and instance class members\20. Static and instance class members\obj\Debug\20. Static and instance class members.csproj.AssemblyReference.cache
+F:\C# Programing\Code Practice\20. Static and instance class members\20. Static and instance class members\obj\Debug\20. Static and instance class members.csproj.CoreCompileInputs.cache
+F:\C# Programing\Code Practice\20. Static and instance class members\20. Static and instance class members\obj\Debug\_20.Static_and_instance_class_members.exe
+F:\C# Programing\Code Practice\20. Static and instance class members\20. Static and instance class members\obj\Debug\_20.Static_and_instance_class_members.pdb

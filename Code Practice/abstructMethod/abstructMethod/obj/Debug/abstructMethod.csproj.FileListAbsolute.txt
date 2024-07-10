@@ -1,0 +1,7 @@
+F:\C# Programing\Code Practice\abstructMethod\abstructMethod\bin\Debug\abstructMethod.exe.config
+F:\C# Programing\Code Practice\abstructMethod\abstructMethod\bin\Debug\abstructMethod.exe
+F:\C# Programing\Code Practice\abstructMethod\abstructMethod\bin\Debug\abstructMethod.pdb
+F:\C# Programing\Code Practice\abstructMethod\abstructMethod\obj\Debug\abstructMethod.csproj.AssemblyReference.cache
+F:\C# Programing\Code Practice\abstructMethod\abstructMethod\obj\Debug\abstructMethod.csproj.CoreCompileInputs.cache
+F:\C# Programing\Code Practice\abstructMethod\abstructMethod\obj\Debug\abstructMethod.exe
+F:\C# Programing\Code Practice\abstructMethod\abstructMethod\obj\Debug\abstructMethod.pdb

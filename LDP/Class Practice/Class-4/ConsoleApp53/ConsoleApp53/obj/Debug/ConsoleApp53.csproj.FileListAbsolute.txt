@@ -1,0 +1,8 @@
+F:\C#\Class-4\ConsoleApp53\ConsoleApp53\bin\Debug\ConsoleApp53.exe.config
+F:\C#\Class-4\ConsoleApp53\ConsoleApp53\bin\Debug\ConsoleApp53.exe
+F:\C#\Class-4\ConsoleApp53\ConsoleApp53\bin\Debug\ConsoleApp53.pdb
+F:\C#\Class-4\ConsoleApp53\ConsoleApp53\obj\Debug\ConsoleApp53.csproj.AssemblyReference.cache
+F:\C#\Class-4\ConsoleApp53\ConsoleApp53\obj\Debug\ConsoleApp53.csproj.SuggestedBindingRedirects.cache
+F:\C#\Class-4\ConsoleApp53\ConsoleApp53\obj\Debug\ConsoleApp53.csproj.CoreCompileInputs.cache
+F:\C#\Class-4\ConsoleApp53\ConsoleApp53\obj\Debug\ConsoleApp53.exe
+F:\C#\Class-4\ConsoleApp53\ConsoleApp53\obj\Debug\ConsoleApp53.pdb

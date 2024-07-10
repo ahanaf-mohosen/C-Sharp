@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\C# Programing\\Code Practice\\partialMethod\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7CC482B-15B3-4A43-AE75-EBB26578A031}|partialMethod\\partialMethod.csproj|f:\\c# programing\\code practice\\partialmethod\\partialmethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7CC482B-15B3-4A43-AE75-EBB26578A031}|partialMethod\\partialMethod.csproj|solutionrelative:partialmethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7CC482B-15B3-4A43-AE75-EBB26578A031}|partialMethod\\partialMethod.csproj|f:\\c# programing\\code practice\\partialmethod\\partialmethod\\partialmethodone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7CC482B-15B3-4A43-AE75-EBB26578A031}|partialMethod\\partialMethod.csproj|solutionrelative:partialmethod\\partialmethodone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7CC482B-15B3-4A43-AE75-EBB26578A031}|partialMethod\\partialMethod.csproj|f:\\c# programing\\code practice\\partialmethod\\partialmethod\\partialmethodtwo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7CC482B-15B3-4A43-AE75-EBB26578A031}|partialMethod\\partialMethod.csproj|solutionrelative:partialmethod\\partialmethodtwo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "partialMethodTwo.cs",
+              "DocumentMoniker": "F:\\C# Programing\\Code Practice\\partialMethod\\partialMethod\\partialMethodTwo.cs",
+              "RelativeDocumentMoniker": "partialMethod\\partialMethodTwo.cs",
+              "ToolTip": "F:\\C# Programing\\Code Practice\\partialMethod\\partialMethod\\partialMethodTwo.cs*",
+              "RelativeToolTip": "partialMethod\\partialMethodTwo.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T15:31:06.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "partialMethodOne.cs",
+              "DocumentMoniker": "F:\\C# Programing\\Code Practice\\partialMethod\\partialMethod\\partialMethodOne.cs",
+              "RelativeDocumentMoniker": "partialMethod\\partialMethodOne.cs",
+              "ToolTip": "F:\\C# Programing\\Code Practice\\partialMethod\\partialMethod\\partialMethodOne.cs*",
+              "RelativeToolTip": "partialMethod\\partialMethodOne.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T15:30:30.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\C# Programing\\Code Practice\\partialMethod\\partialMethod\\Program.cs",
+              "RelativeDocumentMoniker": "partialMethod\\Program.cs",
+              "ToolTip": "F:\\C# Programing\\Code Practice\\partialMethod\\partialMethod\\Program.cs*",
+              "RelativeToolTip": "partialMethod\\Program.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T15:29:51.793Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

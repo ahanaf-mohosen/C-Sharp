@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\C# Programing\\Code Practice\\maltiCastDelegate\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EFAD882B-373F-41C4-9CDD-C24EF979C8B1}|maltiCastDelegate\\maltiCastDelegate.csproj|f:\\c# programing\\code practice\\malticastdelegate\\malticastdelegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFAD882B-373F-41C4-9CDD-C24EF979C8B1}|maltiCastDelegate\\maltiCastDelegate.csproj|solutionrelative:malticastdelegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\C# Programing\\Code Practice\\maltiCastDelegate\\maltiCastDelegate\\Program.cs",
+              "RelativeDocumentMoniker": "maltiCastDelegate\\Program.cs",
+              "ToolTip": "F:\\C# Programing\\Code Practice\\maltiCastDelegate\\maltiCastDelegate\\Program.cs",
+              "RelativeToolTip": "maltiCastDelegate\\Program.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBcAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-14T06:02:30.48Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

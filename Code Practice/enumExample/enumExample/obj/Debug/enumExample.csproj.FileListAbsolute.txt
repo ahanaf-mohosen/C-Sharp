@@ -1,0 +1,7 @@
+F:\C# Programing\Code Practice\enumExample\enumExample\bin\Debug\enumExample.exe.config
+F:\C# Programing\Code Practice\enumExample\enumExample\bin\Debug\enumExample.exe
+F:\C# Programing\Code Practice\enumExample\enumExample\bin\Debug\enumExample.pdb
+F:\C# Programing\Code Practice\enumExample\enumExample\obj\Debug\enumExample.csproj.AssemblyReference.cache
+F:\C# Programing\Code Practice\enumExample\enumExample\obj\Debug\enumExample.csproj.CoreCompileInputs.cache
+F:\C# Programing\Code Practice\enumExample\enumExample\obj\Debug\enumExample.exe
+F:\C# Programing\Code Practice\enumExample\enumExample\obj\Debug\enumExample.pdb

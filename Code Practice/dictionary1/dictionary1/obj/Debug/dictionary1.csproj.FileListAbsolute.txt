@@ -1,0 +1,7 @@
+F:\C# Programing\Code Practice\dictionary1\dictionary1\bin\Debug\dictionary1.exe.config
+F:\C# Programing\Code Practice\dictionary1\dictionary1\bin\Debug\dictionary1.exe
+F:\C# Programing\Code Practice\dictionary1\dictionary1\bin\Debug\dictionary1.pdb
+F:\C# Programing\Code Practice\dictionary1\dictionary1\obj\Debug\dictionary1.csproj.AssemblyReference.cache
+F:\C# Programing\Code Practice\dictionary1\dictionary1\obj\Debug\dictionary1.csproj.CoreCompileInputs.cache
+F:\C# Programing\Code Practice\dictionary1\dictionary1\obj\Debug\dictionary1.exe
+F:\C# Programing\Code Practice\dictionary1\dictionary1\obj\Debug\dictionary1.pdb

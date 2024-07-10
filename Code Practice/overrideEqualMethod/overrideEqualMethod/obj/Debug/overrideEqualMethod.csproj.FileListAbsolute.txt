@@ -1,0 +1,7 @@
+F:\C# Programing\Code Practice\overrideEqualMethod\overrideEqualMethod\bin\Debug\overrideEqualMethod.exe.config
+F:\C# Programing\Code Practice\overrideEqualMethod\overrideEqualMethod\bin\Debug\overrideEqualMethod.exe
+F:\C# Programing\Code Practice\overrideEqualMethod\overrideEqualMethod\bin\Debug\overrideEqualMethod.pdb
+F:\C# Programing\Code Practice\overrideEqualMethod\overrideEqualMethod\obj\Debug\overrideEqualMethod.csproj.AssemblyReference.cache
+F:\C# Programing\Code Practice\overrideEqualMethod\overrideEqualMethod\obj\Debug\overrideEqualMethod.csproj.CoreCompileInputs.cache
+F:\C# Programing\Code Practice\overrideEqualMethod\overrideEqualMethod\obj\Debug\overrideEqualMethod.exe
+F:\C# Programing\Code Practice\overrideEqualMethod\overrideEqualMethod\obj\Debug\overrideEqualMethod.pdb
