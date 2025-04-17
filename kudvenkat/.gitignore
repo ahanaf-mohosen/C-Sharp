@@ -1,0 +1,56 @@
+**/.vs
+**/bin
+**/obj
+**/*.user
+**/Logs/*
+
+## Ignore Visual Studio temporary files, build results, and
+## user-specific files
+
+# User-specific files
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Bb]in/
+[Oo]bj/
+[Dd]ebug*/
+[Rr]elease*/
+
+# Rider
+.idea/
+
+# VS Code
+.vscode/
+
+# Visual Studio
+.vs/
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Backup & temporary files
+*.bak
+*.tmp
+*.log
+
+# Others
+*.db
+*.cache
+*.vsidx
+*.pdb
+*.exe
+*.dll
+*.deps.json
+*.runtimeconfig.json
+*.dtbcache.v2
+*.futdcache.v2
+
+# OS generated files
+.DS_Store
+Thumbs.db
