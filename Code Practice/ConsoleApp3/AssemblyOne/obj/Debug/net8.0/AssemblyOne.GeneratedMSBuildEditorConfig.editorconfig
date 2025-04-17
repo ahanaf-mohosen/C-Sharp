@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = AssemblyOne
-build_property.ProjectDir = F:\C# Programing\Code Practice\ConsoleApp3\AssemblyOne\
+build_property.ProjectDir = f:\Programing Language\C#\Code Practice\ConsoleApp3\AssemblyOne\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
